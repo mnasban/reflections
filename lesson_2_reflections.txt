@@ -3,3 +3,6 @@ it will save the metadata for the folder, to let the git know i want to track ch
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 it is in the middle, you can add whatever you want to it before committing. it helps organize the solution and to check the status before committing.
+
+How can you use the staging area to make sure you have one commit per logical change?
+we can check the difference between the original and the staging area to make sure it is a logical change.
